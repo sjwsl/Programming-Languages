@@ -1,2 +1,2 @@
 # Programming Languages
- Courseara Programming Languages Material
+ Coursera Programming Languages Material
