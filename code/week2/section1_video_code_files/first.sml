@@ -9,4 +9,4 @@
 
 	val q = z + 1;
 
-	val abs_of_z = if z < 0 them 0 - z else z;
+	val abs_of_z = if z < 0 then 0 - z else z;
